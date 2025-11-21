@@ -50,6 +50,10 @@ plt.grid()
 plt.tight_layout() 
 plt.show() 
 ```
+### TABLE:
+<img width="874" height="801" alt="Screenshot 2025-11-21 195842" src="https://github.com/user-attachments/assets/50795ec1-f3f2-4949-9ee3-958870a4f51e" />
+
+
 ### Output:
 <img width="838" height="593" alt="Screenshot 2025-11-16 231537" src="https://github.com/user-attachments/assets/9b4ae92d-95d2-4509-81f8-b75980c64900" />
 
